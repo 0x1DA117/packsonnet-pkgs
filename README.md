@@ -1,2 +1,3 @@
-# packsonnet-pkgs
-Predefined Packsonnet packages for common application
+# Packsonnet Packages
+
+This repository holds predefined Packsonnet packages.
