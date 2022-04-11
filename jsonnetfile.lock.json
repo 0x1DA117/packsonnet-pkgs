@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/0x1DA117/packsonnet.git",
+          "subdir": ""
+        }
+      },
+      "version": "10337e0d0a1717b94933976acfb3c8b87552aadc",
+      "sum": "hgGA2MxRUHnEkTvZ+kDvJlOFv8DgqOLesV5lZlLxZbs="
+    },
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/jsonnet-libs/k8s-libsonnet.git",
+          "subdir": "1.23"
+        }
+      },
+      "version": "81874cbf04381f64def279e889af72415232a16d",
+      "sum": "/cLFw2kbmohsnxkPZpXHi7IQWw+3XpSOT1aTV7av7Cw="
+    }
+  ],
+  "legacyImports": false
+}
